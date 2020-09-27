@@ -1,0 +1,15 @@
+.serachPage{
+padding: 20px;
+}
+.serachPage__info {
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.serachPage__info > h1 {
+    margin-bottom: 30px;
+}
+.serachPage__info > button {
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 5px;
+}
